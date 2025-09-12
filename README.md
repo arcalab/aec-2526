@@ -1,114 +1,53 @@
 # Introduction and objectives 
 
-This course introduces formal semantics of programming languages. It starts
-with different semantic approaches (operational, denotational, and axiomatic)
-in the imperative setting. It then focusses on the semantics of functional
-languages, with lambda-calculus as the central core.
+This course unit aims at preparing students to analyse algorithms (regarding
+correctness and usage of resources, in particular execution time), as well as
+to use algorithms over advanced data structures, including graphs. The unit
+also introduces elementary algorithmic complexity concepts, such as the notion
+of NP-complete problem.
 
-Learning outcomes:
-+ To describe the prominent features of operational, axiomatic and denotational
-  approaches to the semantics of programming languages.
-+ To attribute formal meaning to different aspects of a simple imperative or functional language.
-+ To use inductive techniques to argue about properties of programming languages.
-+ To use lambda-calculus as a computational model and as a rewriting system.
-+ To use type systems for regulating the good formation of programs.
+The course is constituted by the following topics.
+
+1. Introduction to the analysis of program correctness: pre and
+   post-conditions; loop invariants; program annotation.
+2. Execution time analysis: asymptotic complexity model; algorithmic
+   strategies; recurrence equations; best case, worst case, and average case
+analysis; amortized analysis; case studies.
+3. Efficient data structures: AVL trees, hash tables, heaps. Efficient
+   implementation of buffers and dictionaries.
+4. Fundamental graph algorithms; the greedy and dynamic programming algorithmic
+   strategies.
+5. Introduction to the P, NP, and NP-complete classes of decision problems.
 
 # Summaries
 
   | Date         | Description |
   | ----------   |------------ |
-  | 03 feb. 2025 | Introduction to the module and its logistics ([slides](./intro.pdf)) |
-  | 04 feb. 2025 | NA |
-  | 10 feb. 2025 | Baby steps with small-step semantics ([slides](./small_step/small_step.pdf)) |
-  | 11 feb. 2025 | Exercises |
-  | 17 feb. 2025 | Big steps with big-step semantics ([slides](./big_step/big_step.pdf)) |
-  | 18 feb. 2025 | Exercises. Implementation of a while-language and its big-step semantics ([code](./big_step/MyLang.hs)) |
-  | 24 feb. 2025 | Introduction to denotational semantics ([slides](./denotational/denotational.pdf)) |
-  | 25 feb. 2025 | Exercises |
-  | 03 mar. 2025 | Domain theory and fixpoints ([slides](./denotational/denotational.pdf)) |
-  | 04 mar. 2025 | Carnival |
-  | 10 mar. 2025 | Introduction to axiomatic semantics ([slides](./axiomatic/axiomatic.pdf)) |
-  | 11 mar. 2025 | Weakest pre-condition semantics ([slides](./axiomatic/axiomatic.pdf)) |
-  | 17 mar. 2025 | Hoare calculus. Soundness and Completeness ([slides](./axiomatic/axiomatic.pdf)) |
-  | 18 mar. 2025 | Revisions ([handout](./exercises/exercises.pdf)) |
-  | 24 mar. 2025 | Test  |
-  | 25 mar. 2025 | NA  |
-  | 31 mar. 2025 | Introduction to the simply-typed lambda-calculus ([slides](./lambda_calc/lambdaCalc.pdf))  |
-  | 01 apr. 2025 | Continuation of the previous lecture ([slides](./lambda_calc/lambdaCalc.pdf)) |
-  | 07 apr. 2025 | Equational system of simply-typed lambda-calculus ([slides](./lambda_calc/lambdaCalc.pdf)) |
-  | 08 apr. 2025 | Continuation of the previous lecture ([slides](./lambda_calc/lambdaCalc.pdf)) |
-  | 22 apr. 2025 | Disjunctive types ([slides](./lambda_calc/lambdaCalc.pdf)) |
-  | 28 apr. 2025 | From Cartesian to Linear theories ([slides](./lambda_calc/lambdaCalc.pdf)) |
-  | 29 apr. 2025 | Category theory recap ([slides](./categories/categories.pdf)) |
-  | 05 may  2025 | Categorical interpretation of lambda-calculus ([slides](./categories/categories.pdf)) |
-  | 06 may  2025 | Continuation of the previous lecture. Exercises ([slides](./categories/categories.pdf)) ([handout](./exercises/exercises.pdf)) |
-
+  | xx sep. 2025 | xxx |
+  | xx feb. 2025 | xxx |
 
 # Assessment
 
-Two tests (24 Mar and 20 May)
+Assessment is carried out through two tests (intermediate and final), both
+weighing 50%. It is a requirement for successful evaluation that students
+obtain a mark of at least 25% in both tests.
  
 # Contacts
 
-The day and time for appointments is Wednesday afternoon. Please email me the
-day before if you wish to meet. If you prefer you can also send an email with
-your questions to [me](mailto:nevrenato@di.uminho.pt) or we can have an online
-meeting.
+  | Lecturer         | Time |
+  | ----------   |------------ |
+  | Renato Neves | Tuesday afternoon |
+  | xx | xxx |
+
 
 # Bibliography
 
-<p><a name="nielson07"></a>
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to Algorithms, Fourth Edition. The MIT Press, 2022. 
 
-Hanne&nbsp;Riis Nielson and Flemming Nielson.
- <em>Semantics with Applications: An Appetizer</em>.
- Springer London, 2007.
-[&nbsp;<a href="main_bib.html#nielson07">bib</a>&nbsp;| 
-<a href="https://doi.org/10.1007/978-1-84628-692-6">DOI</a>&nbsp;]
+Donald E. Knuth. The Art of Computer Programming, Volume I: Fundamental Algorithms, 2nd Edition. Addison- Wesley, 1973. 
 
-</p>
+Donald E. Knuth. The Art of Computer Programming, Volume III: Sorting and Searching. Addison-Wesley, 1973. 
 
-<p><a name="crole03"></a>
+Donald E. Knuth. The Art of Computer Programming, Volume II: Seminumerical Algorithms, 2nd Edition. Addison- Wesley, 1981. 
 
-Roy&nbsp;L. Crole.
- <em>Categories for Types</em>.
- Cambridge mathematical textbooks. Cambridge University Press, 1993.
-[&nbsp;<a href="main_bib.html#crole03">bib</a>&nbsp;]
-
-</p>
-
-<p><a name="winskel93"></a>
-
-Glynn Winskel.
- <em>The formal semantics of programming languages - an
-  introduction</em>.
- Foundation of computing series. MIT Press, 1993.
-[&nbsp;<a href="main_bib.html#winskel93">bib</a>&nbsp;]
-
-</p><hr><p><em>This file was generated by
-<a href="http://www.lri.fr/~filliatr/bibtex2html/">bibtex2html</a> 1.99.</em></p>
-
-## Supplementary bibliography
-
-<p><a name="rosu12"></a>
-
-Chucky Ellison and Grigore Rosu.
- An executable formal semantics of C with applications.
- In John Field and Michael Hicks, editors, <em>Proceedings of the
-  39th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,
-  POPL 2012, Philadelphia, Pennsylvania, USA, January 22-28, 2012</em>, pages
-  533--544. ACM, 2012.
-[&nbsp;<a href="suppl_bib.html#rosu12">bib</a>&nbsp;| 
-<a href="http://dx.doi.org/10.1145/2103656.2103719">DOI</a>&nbsp;| 
-<a href="https://doi.org/10.1145/2103656.2103719">http</a>&nbsp;]
-
-</p>
-
-<p><a name="adams95"></a>
-
-D.&nbsp;Adams.
- <em>The Hitchhiker's Guide to the Galaxy</em>.
- Pan MacMillan, 2009.
-[&nbsp;<a href="suppl_bib.html#adams95">bib</a>&nbsp;]
-
-</p><hr><p><em>This file was generated by
-<a href="http://www.lri.fr/~filliatr/bibtex2html/">bibtex2html</a> 1.99.</em></p>
+Robert Sedgewick, Kevin Wayne. Algorithms. Addison-Wesley, 4th edition (March 24, 2011).
