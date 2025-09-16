@@ -1,48 +1,60 @@
-# Introduction and objectives 
+# Introdução e objectivos
 
-This course unit aims at preparing students to analyse algorithms (regarding
-correctness and usage of resources, in particular execution time), as well as
-to use algorithms over advanced data structures, including graphs. The unit
-also introduces elementary algorithmic complexity concepts, such as the notion
-of NP-complete problem.
+Esta unidade curricular visa tornar os estudantes aptos a analisar algoritmos
+do ponto de vista da sua correcção e tempo de execução. Visa também tornar os
+estudantes proficientes na utilização de estruturas de dados avançadas, por
+exemplo grafos. A UC introduz ainda conceitos elementares de complexidade
+algorítmica, tais como a noção do problema NP-completo.
 
-The course is constituted by the following topics.
+1. Introdução à análise de correção de algoritmos: pré e pós-condições;
+   invariantes de ciclo; anotação de programas.
+2. Análise de tempo de execução de algoritmos: modelo de complexidade
+   assimptótica; estratégias algorítmicas; recorrências; análise de melhor
+caso, pior caso, e caso médio; análise amortizada; casos de estudo.
+3. Estruturas de dados eficientes: árvores AVL, tabelas de dispersão, heaps.
+   Implementação eficiente de buffers e dicionários.
+4. Algoritmos fundamentais sobre grafos; estratégia algorítmica greedy e
+   programação dinâmica.
+5. Introdução às classes de problemas de decisão P, NP, e NP-completo.
 
-1. Introduction to the analysis of program correctness: pre and
-   post-conditions; loop invariants; program annotation.
-2. Execution time analysis: asymptotic complexity model; algorithmic
-   strategies; recurrence equations; best case, worst case, and average case
-analysis; amortized analysis; case studies.
-3. Efficient data structures: AVL trees, hash tables, heaps. Efficient
-   implementation of buffers and dictionaries.
-4. Fundamental graph algorithms; the greedy and dynamic programming algorithmic
-   strategies.
-5. Introduction to the P, NP, and NP-complete classes of decision problems.
+# Programa
 
-# Summaries
+| Datas            | TPs                                   | Ts                                                                 |
+|------------------|---------------------------------------|--------------------------------------------------------------------|
+| 15.Set a 19.Set  |                                       | Apresentação. Introdução à correcção de Programas Imperativos. Especificações e triplos de Hoare |
+| 22.Set a 25.Set  | [Ficha 1.1 (Especificações)](./ficha1tp.pdf)            | Validade de um Triplo de Hoare. Regras de prova: Sequencia, atribuição e condicionais |
+| 29.Set a 3.Out   | Ficha 1.2 (Correcção)                 | Correcção de ciclos: variantes e invariantes.                      |
+| 6.Out a 10.Out   | Ficha 1.3 (Invariantes)               | Introdução à análise de complexidade. Tamanho do input. Melhor e pior casos. Caso médio. |
+| 13.Out a 17.Out  | Ficha 2.1 (Contagem)                  | Análise de definições recursivas. Relações de recorrência. Complexidade de algoritmos de ordenação. |
+| 20.Out a 24.Out  | Ficha 2.2 (Recorrências)              | Análise amortizada                                                 |
+| 27.Out a 30.Out  | Ficha 2.(3,4) (Caso médio/Amortizada) | Estruturas de dados para representar dicionarios: tabelas de Hash  |
+| 3.Nov a 7.Nov    | Ficha 3.1 (min-heaps)                 | Árvores AVL: motivação e algoritmo de inserção balanceada           |
+| 10.Nov a 14.Nov  | Revisões                              | Revisões                                                           |
+| 17.Nov a 21.Nov  | Ficha 3.2 (THash)                     | Grafos: representações e funções de consulta                       |
+| 24.Nov a 28.Nov  | Ficha 4.1 (Representações de grafos)  | Grafos: travessias                                                 |
+| 1.Dez a 5.Dez    | Ficha 4.2 (Travessias de grafos)      | Grafos pesados: algoritmo de Dijkstra, Prim e Floyd Warshal        |
+| 8.Dez a 12.Dez   | Ficha 4.3 (Grafos pesados/problema)   |                                                                    |
+| 15.Dez a 19.Dez  | NA                                    | NA                                                                 |
 
-  | Date         | Description |
-  | ----------   |------------ |
-  | xx sep. 2025 | xxx |
-  | xx feb. 2025 | xxx |
+# Avaliação
 
-# Assessment
+Será constituída por dois testes nas seguintes datas:
+* 15 Novembro 2025
+* 10 Janeiro 2026
 
-+ ([Ficha 1](tp1.pdf))  
-
-Assessment is carried out through two tests (intermediate and final), both
-weighing 50%. It is a requirement for successful evaluation that students
-obtain a mark of at least 25% in both tests.
+O recurso será no dia 24 Janeiro 2026.
  
-# Contacts
+# Contactos
 
-  | Lecturer         | Time |
-  | ----------   |------------ |
-  | Renato Neves | Tuesday afternoon |
-  | jbb | Tuesday afternoon |
+  | Docente         | Horário |
+  | ----------      |------------ |
+  | Renato Neves    | 3a-f tarde |
+  | jbb             | 3a-f tarde |
+  | xxx             | xxx |
+  | xxx             | xxx |
 
 
-# Bibliography
+# Bibliografia
 
 Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to Algorithms, Fourth Edition. The MIT Press, 2022. 
 
