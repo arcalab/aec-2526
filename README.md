@@ -34,7 +34,6 @@ caso, pior caso, e caso médio; análise amortizada; casos de estudo.
 | 24.Nov a 28.Nov  | Ficha 4.1 (Representações de grafos)  | Grafos: travessias                                                 |
 | 1.Dez a 5.Dez    | Ficha 4.2 (Travessias de grafos)      | Grafos pesados: algoritmo de Dijkstra, Prim e Floyd Warshal        |
 | 8.Dez a 12.Dez   | Ficha 4.3 (Grafos pesados/problema)   |                                                                    |
-| 15.Dez a 19.Dez  | NA                                    | NA                                                                 |
 
 # Avaliação
 
