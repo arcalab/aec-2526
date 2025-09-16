@@ -37,7 +37,7 @@ obtain a mark of at least 25% in both tests.
   | Lecturer         | Time |
   | ----------   |------------ |
   | Renato Neves | Tuesday afternoon |
-  | xx | xxx |
+  | jbb | Tuesday afternoon |
 
 
 # Bibliography
