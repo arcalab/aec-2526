@@ -28,6 +28,8 @@ analysis; amortized analysis; case studies.
 
 # Assessment
 
++ ([Ficha 1](tp1.pdf))  
+
 Assessment is carried out through two tests (intermediate and final), both
 weighing 50%. It is a requirement for successful evaluation that students
 obtain a mark of at least 25% in both tests.
