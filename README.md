@@ -1,4 +1,6 @@
+
 <br>
+
 # Introdução e objectivos
 
 Esta unidade curricular visa tornar os estudantes aptos a analisar algoritmos
