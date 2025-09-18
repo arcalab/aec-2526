@@ -42,7 +42,17 @@ Será constituída por dois testes nas seguintes datas:
 * 10 Janeiro 2026
 
 O recurso será no dia 24 Janeiro 2026.
- 
+
+
+
+# Material 
+
+## Notas/slides JSP
+
+* [C1. Especificação e Correcção de Algoritmos](https://www.dropbox.com/scl/fi/si8rl0wnpramf3k140jp3/C1.-Especifica-o-e-Correc-o-de-Algoritmos.pdf?rlkey=c8gwl9aiax8j5xsowtv4f96o4&dl=0)
+* [C2. Correcção de Algoritmos com Ciclos](https://www.dropbox.com/scl/fi/9ggkdd9cz79olsgdz9enr/C2.-Correc-o-de-Algoritmos-com-Ciclos.pdf?rlkey=2ilvstmmtyxpgij6v6inttbs5&dl=0)
+
+
 # Contactos
 
   | Docente         | Horário |
