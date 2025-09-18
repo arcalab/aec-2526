@@ -17,6 +17,9 @@ caso, pior caso, e caso médio; análise amortizada; casos de estudo.
    programação dinâmica.
 5. Introdução às classes de problemas de decisão P, NP, e NP-completo.
 
+
+
+<br>
 # Programa
 
 | Datas            | TPs                                   | Ts                                                                 |
@@ -46,6 +49,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
 
 
 
+<br>
 # Material 
 
 ### Notas/slides JSP
@@ -54,6 +58,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
 * [C2. Correcção de Algoritmos com Ciclos](https://www.dropbox.com/scl/fi/9ggkdd9cz79olsgdz9enr/C2.-Correc-o-de-Algoritmos-com-Ciclos.pdf?rlkey=2ilvstmmtyxpgij6v6inttbs5&dl=0)
 
 
+<br>
 # Contactos
 
   | Docente         | Horário Atendimento |
@@ -65,6 +70,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
 
 
 
+<br>
 # Bibliografia
 
 Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. Introduction to Algorithms, Fourth Edition. The MIT Press, 2022. 
