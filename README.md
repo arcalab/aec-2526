@@ -24,7 +24,7 @@ caso, pior caso, e caso médio; análise amortizada; casos de estudo.
 
 
 <br>
-# Programa //Plano 
+# Programa // Plano 
 
 | Datas            | TPs                                   | Ts                                                                 |
 |------------------|---------------------------------------|--------------------------------------------------------------------|
