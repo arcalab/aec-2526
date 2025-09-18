@@ -57,10 +57,11 @@ O recurso será no dia 24 Janeiro 2026.
 
   | Docente         | Horário |
   | ----------      |------------ |
-  | Renato Neves    | 3a-f tarde |
-  | jbb             | 3a-f tarde |
-  | xxx             | xxx |
-  | xxx             | xxx |
+  | [José Bacelar Almeida](mailto:jba@di.uminho.pt)  | xxx |
+  | [José Bernardo Barros](mailto:jbb@di.uminho.pt)  | 3a-f tarde |
+  | [Renato Neves](mailto:nevrenato@di.uminho.pt)    | 3a-f tarde |
+  | [Jorge Sousa Pinto](mailto:jsp@di.uminho.pt)     | xxx |
+
 
 
 # Bibliografia
