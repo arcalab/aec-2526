@@ -35,6 +35,7 @@ caso, pior caso, e caso médio; análise amortizada; casos de estudo.
 | 1.Dez a 5.Dez    | Ficha 4.2 (Travessias de grafos)      | Grafos pesados: algoritmo de Dijkstra, Prim e Floyd Warshal        |
 | 8.Dez a 12.Dez   | Ficha 4.3 (Grafos pesados/problema)   |                                                                    |
 
+<br>
 # Avaliação
 
 Será constituída por dois testes nas seguintes datas:
