@@ -70,7 +70,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
 
   | Docente         | Horário Atendimento |
   | ----------      |------------ |
-  | [José Bacelar Almeida](mailto:jba@di.uminho.pt)  | xxx |
+  | [José Bacelar Almeida](mailto:jba@di.uminho.pt)  | 5a-f, 11h00-13h00 |
   | [José Bernardo Barros](mailto:jbb@di.uminho.pt)  | 3a-f tarde |
   | [Renato Neves](mailto:nevrenato@di.uminho.pt)    | 3a-f tarde |
   | [Jorge Sousa Pinto](mailto:jsp@di.uminho.pt)     | 6a-f, 9h00-11h00 |
