@@ -1,3 +1,4 @@
+<br>
 # Introdução e objectivos
 
 Esta unidade curricular visa tornar os estudantes aptos a analisar algoritmos
@@ -66,7 +67,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
   | [José Bacelar Almeida](mailto:jba@di.uminho.pt)  | xxx |
   | [José Bernardo Barros](mailto:jbb@di.uminho.pt)  | 3a-f tarde |
   | [Renato Neves](mailto:nevrenato@di.uminho.pt)    | 3a-f tarde |
-  | [Jorge Sousa Pinto](mailto:jsp@di.uminho.pt)     | 6a-f 9h00-11h00 |
+  | [Jorge Sousa Pinto](mailto:jsp@di.uminho.pt)     | 6a-f, 9h00-11h00 |
 
 
 
