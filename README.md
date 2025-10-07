@@ -59,6 +59,8 @@ O exame de recurso será no dia 24 Janeiro 2026.
 
 * [C1. Especificação e Correcção de Algoritmos](https://www.dropbox.com/scl/fi/si8rl0wnpramf3k140jp3/C1.-Especifica-o-e-Correc-o-de-Algoritmos.pdf?rlkey=c8gwl9aiax8j5xsowtv4f96o4&dl=0)
 * [C2. Correcção de Algoritmos com Ciclos](https://www.dropbox.com/scl/fi/9ggkdd9cz79olsgdz9enr/C2.-Correc-o-de-Algoritmos-com-Ciclos.pdf?rlkey=2ilvstmmtyxpgij6v6inttbs5&dl=0)
+* [T1. Tempo de Execução de Algoritmos Iterativos](https://www.dropbox.com/scl/fi/argncz6lpdxaiaqjhfgjy/T1.-Tempo-de-Execu-o-de-Algoritmos-Iterativos.pdf?rlkey=khrabx7fvoi0qddpuqch29cpz&dl=0)
+
 
 ### Notas JBB
 
@@ -70,7 +72,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
 
   | Docente         | Horário Atendimento |
   | ----------      |------------ |
-  | [José Bacelar Almeida](mailto:jba@di.uminho.pt)  | xxx |
+  | [José Bacelar Almeida](mailto:jba@di.uminho.pt)  | 5a-f, 11h00-13h00 |
   | [José Bernardo Barros](mailto:jbb@di.uminho.pt)  | 3a-f tarde |
   | [Renato Neves](mailto:nevrenato@di.uminho.pt)    | 3a-f tarde |
   | [Jorge Sousa Pinto](mailto:jsp@di.uminho.pt)     | 6a-f, 9h00-11h00 |
