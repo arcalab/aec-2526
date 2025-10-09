@@ -31,7 +31,7 @@ caso, pior caso, e caso médio; análise amortizada; casos de estudo.
 | 22.Set a 25.Set  | [Ficha 1.1 (Especificações)](./ficha1tp.pdf)            | Validade de um Triplo de Hoare. Regras de prova: Sequencia, atribuição e condicionais |
 | 29.Set a 3.Out   | Ficha 1.2 (Correcção)                 | Correcção de ciclos: variantes e invariantes.                      |
 | 6.Out a 10.Out   | Ficha 1.3 (Invariantes)               | Introdução à análise de complexidade. Tamanho do input. Melhor e pior casos. Caso médio. |
-| 13.Out a 17.Out  | Ficha 2.1 (Contagem)                  | Análise de definições recursivas. Relações de recorrência. Complexidade de algoritmos de ordenação. |
+| 13.Out a 17.Out  | [Ficha 2.1 (Contagem)](./Ficha2.pdf)                  | Análise de definições recursivas. Relações de recorrência. Complexidade de algoritmos de ordenação. |
 | 20.Out a 24.Out  | Ficha 2.2 (Recorrências)              | Análise amortizada                                                 |
 | 27.Out a 30.Out  | Ficha 2.(3,4) (Caso médio/Amortizada) | Estruturas de dados para representar dicionarios: tabelas de Hash  |
 | 3.Nov a 7.Nov    | Ficha 3.1 (min-heaps)                 | Árvores AVL: motivação e algoritmo de inserção balanceada           |
@@ -66,10 +66,10 @@ O exame de recurso será no dia 24 Janeiro 2026.
 ### Notas JBB
 
 * [Correcção de Algoritmos](./Correccao.pdf)
-
+* [Análise de Complexidade](./Complexidade.pdf)
 
 <br>
-# Contactos
+# Contactos 
 
   | Docente         | Horário Atendimento |
   | ----------      |------------ |
