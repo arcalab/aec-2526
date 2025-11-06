@@ -64,6 +64,9 @@ O exame de recurso será no dia 24 Janeiro 2026.
 * [T3. Análise do Tempo de Execução de Algoritmos Recursivos](https://www.dropbox.com/scl/fi/y87bwutsgugvfxlfkqtla/T3.-An-lise-do-Tempo-de-Execu-o-de-Algoritmos-Recursivos.pdf?rlkey=ex346xkdfb6rn9o50uclvs12w&dl=0)
 * [T4. Tópicos sobre Algoritmos de Ordenação](https://www.dropbox.com/scl/fi/ykk6oth6h8yyxlai8pdvf/T4.-T-picos-sobre-Algoritmos-de-Ordena-o.pdf?rlkey=8cmq1f9voiyximwzx5slyugue&dl=0)
 * [T5. Análise Amortizada de Algoritmos](https://www.dropbox.com/scl/fi/qsh8pm4p6jwfs2vug649z/T5.-An-lise-Amortizada-de-Algoritmos.pdf?rlkey=oor0qi2kfg94o36o3733x4ie0&dl=0)
+* [ED2. Filas com Prioridades e “Heaps”](https://www.dropbox.com/scl/fi/42yuvqrvueluxktmbcqgk/ED2.-Filas-com-Prioridades-e-Heaps.pdf?rlkey=wt4jotaz1dtxlq2ncn08iv4s3&dl=0)
+* [ED4. Tabelas de “hash”](https://www.dropbox.com/scl/fi/rcrbfjvl15pcexiwke80v/ED4.-Tabelas-de-hash.pdf?rlkey=bi19mqit53ou9ogcyk0qlu177&dl=0)
+
 
 ### Notas JBB
 
