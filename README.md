@@ -43,6 +43,18 @@ Será constituída por dois testes nas seguintes datas:
 
 O recurso será no dia 24 Janeiro 2026.
  
+# Testes e exames anteriores
+
+* [Exame 24-25](./exame2425.pdf)
+* [Teste 2 24-25](./teste2_2425.pdf)
+* [Teste 1 24-25](./teste1_2425.pdf)
+* [Exame 23-24](./exame2324.pdf)
+* [Teste 2 23-24](./teste2_2324.pdf)
+* [Teste 1 23-24](./teste1_2324.pdf)
+* [Exame 22-23](./exame2223.pdf)
+* [Teste 2 22-23](./teste2_2223.pdf)
+* [Teste 1 22-23](./teste1_2223.pdf)
+
 # Contactos
 
   | Docente         | Horário |
