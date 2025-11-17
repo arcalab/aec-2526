@@ -30,7 +30,7 @@ caso, pior caso, e caso médio; análise amortizada; casos de estudo.
 | 13.Out a 17.Out  | [Ficha 2.1 (Contagem)](./Ficha2.pdf)                  | Análise de definições recursivas. Relações de recorrência. Complexidade de algoritmos de ordenação. |
 | 20.Out a 24.Out  | Ficha 2.2 (Recorrências)              | Análise amortizada                                                 |
 | 27.Out a 30.Out  | Ficha 2.(3,4) (Caso médio/Amortizada) | Estruturas de dados para representar dicionarios: tabelas de Hash  |
-| 3.Nov a 7.Nov    | Ficha 3.1 (min-heaps)                 | Árvores AVL: motivação e algoritmo de inserção balanceada           |
+| 3.Nov a 7.Nov    | [Ficha 3.1 (min-heaps)](./Ficha3.pdf)                 | Árvores AVL: motivação e algoritmo de inserção balanceada           |
 | 10.Nov a 14.Nov  | Revisões                              | Revisões                                                           |
 | 17.Nov a 21.Nov  | Ficha 3.2 (THash)                     | Grafos: representações e funções de consulta                       |
 | 24.Nov a 28.Nov  | Ficha 4.1 (Representações de grafos)  | Grafos: travessias                                                 |
