@@ -70,6 +70,10 @@ O exame de recurso será no dia 24 Janeiro 2026.
 * [T5. Análise Amortizada de Algoritmos](https://www.dropbox.com/scl/fi/qsh8pm4p6jwfs2vug649z/T5.-An-lise-Amortizada-de-Algoritmos.pdf?rlkey=oor0qi2kfg94o36o3733x4ie0&dl=0)
 * [ED2. Filas com Prioridades e “Heaps”](https://www.dropbox.com/scl/fi/42yuvqrvueluxktmbcqgk/ED2.-Filas-com-Prioridades-e-Heaps.pdf?rlkey=wt4jotaz1dtxlq2ncn08iv4s3&dl=0)
 * [ED4. Tabelas de “hash”](https://www.dropbox.com/scl/fi/rcrbfjvl15pcexiwke80v/ED4.-Tabelas-de-hash.pdf?rlkey=bi19mqit53ou9ogcyk0qlu177&dl=0)
+* [G1. Representação de Grafos em Computador](https://www.dropbox.com/scl/fi/3g63i9nq7946bkuoqok2l/G1.-Representa-o-de-Grafos-em-Computador.pdf?rlkey=elppb2lc9wzmi7xcod30813eg&dl=0)
+* [G2. Algoritmos de Travessia de Grafos](https://www.dropbox.com/scl/fi/jmhiar4wgo9aqhglbjuug/G2.-Algoritmos-de-Travessia-de-Grafos.pdf?rlkey=e8hfkjcqbq1oa7g7l7x2n0w6r&dl=0)
+
+
 
 
 ### Notas JBB
