@@ -80,6 +80,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
 
 * [Correcção de Algoritmos](./Correccao.pdf)
 * [Análise de Complexidade](./Complexidade.pdf)
+* [Estruturas](./Estruturas.pdf)
 
 # Contactos 
 
