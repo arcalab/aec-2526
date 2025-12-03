@@ -81,6 +81,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
 * [Correcção de Algoritmos](./Correccao.pdf)
 * [Análise de Complexidade](./Complexidade.pdf)
 * [Estruturas](./Estruturas.pdf)
+* [Grafos](./Grafos.pdf)
 
 # Contactos 
 
@@ -90,6 +91,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
   | [José Bernardo Barros](mailto:jbb@di.uminho.pt)  | 3a-f tarde |
   | [Renato Neves](mailto:nevrenato@di.uminho.pt)    | 3a-f tarde |
   | [Jorge Sousa Pinto](mailto:jsp@di.uminho.pt)     | 6a-f, 9h00-11h00 |
+
 
 
 
