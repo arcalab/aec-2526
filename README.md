@@ -72,7 +72,8 @@ O exame de recurso será no dia 24 Janeiro 2026.
 * [ED4. Tabelas de “hash”](https://www.dropbox.com/scl/fi/rcrbfjvl15pcexiwke80v/ED4.-Tabelas-de-hash.pdf?rlkey=bi19mqit53ou9ogcyk0qlu177&dl=0)
 * [G1. Representação de Grafos em Computador](https://www.dropbox.com/scl/fi/3g63i9nq7946bkuoqok2l/G1.-Representa-o-de-Grafos-em-Computador.pdf?rlkey=elppb2lc9wzmi7xcod30813eg&dl=0)
 * [G2. Algoritmos de Travessia de Grafos](https://www.dropbox.com/scl/fi/jmhiar4wgo9aqhglbjuug/G2.-Algoritmos-de-Travessia-de-Grafos.pdf?rlkey=e8hfkjcqbq1oa7g7l7x2n0w6r&dl=0)
-
+* [G3. Algoritmos sobre Grafos Pesados: Estratégia Greedy](https://www.dropbox.com/scl/fi/wdvqtxo5a9zet21a5d7t9/G3.-Algoritmos-sobre-Grafos-Pesados-Estrat-gia-Greedy.pdf?rlkey=f3qbs0ckmgl8pfrvsg64l7xdy&dl=0)
+* [G4: Algoritmos sobre Grafos Pesados: Programação Dinâmica](https://www.dropbox.com/scl/fi/srj01vj0r8iii93jc843a/G4.-Algoritmos-sobre-Grafos-Pesados-Programa-o-Din-mica.pdf?rlkey=8rm9si26pb712axaqjrq6quhy&dl=0)
 
 
 
