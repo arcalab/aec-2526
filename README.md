@@ -33,7 +33,7 @@ caso, pior caso, e caso médio; análise amortizada; casos de estudo.
 | 3.Nov a 7.Nov    | [Ficha 3.1 (min-heaps)](./Ficha3.pdf)                 | Árvores AVL: motivação e algoritmo de inserção balanceada           |
 | 10.Nov a 14.Nov  | Revisões                              | Revisões                                                           |
 | 17.Nov a 21.Nov  | Ficha 3.2 (THash)                     | Grafos: representações e funções de consulta                       |
-| 24.Nov a 28.Nov  | Ficha 4.1 (Representações de grafos)  | Grafos: travessias                                                 |
+| 24.Nov a 28.Nov  | [Ficha 4.1 (Representações de grafos)](./Ficha4.pdf)  | Grafos: travessias                                                 |
 | 1.Dez a 5.Dez    | Ficha 4.2 (Travessias de grafos)      | Grafos pesados: algoritmo de Dijkstra, Prim e Floyd Warshal        |
 | 8.Dez a 12.Dez   | Ficha 4.3 (Grafos pesados/problema)   |                                                                    |
 
@@ -81,6 +81,8 @@ O exame de recurso será no dia 24 Janeiro 2026.
 
 * [Correcção de Algoritmos](./Correccao.pdf)
 * [Análise de Complexidade](./Complexidade.pdf)
+* [Estruturas](./Estruturas.pdf)
+* [Grafos](./Grafos.pdf)
 
 # Contactos 
 
@@ -90,6 +92,7 @@ O exame de recurso será no dia 24 Janeiro 2026.
   | [José Bernardo Barros](mailto:jbb@di.uminho.pt)  | 3a-f tarde |
   | [Renato Neves](mailto:nevrenato@di.uminho.pt)    | 3a-f tarde |
   | [Jorge Sousa Pinto](mailto:jsp@di.uminho.pt)     | 6a-f, 9h00-11h00 |
+
 
 
 
